@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enable IIS (Internet Information Services)
+- Install PHP Manager for IIS
+- Install MySQL and setup user/password
+- Register PHP from within IIS
+- Congfigure Permissions/Install osTicker
 
 <h2>Installation Steps</h2>
 
