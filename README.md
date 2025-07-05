@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket..<br />
+<h1>osTicket - Post-Installation Configuration</h1>
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -18,15 +18,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Post-Install Objectives</h2>
 
-- Enable IIS (Internet Information Services)
-- Install PHP Manager for IIS
-- Install MySQL and setup user/password
-- Register PHP from within IIS
-- Congfigure Permissions/Install osTicker
+- Create Roles
+- Create Teams
+- Configure Users
+- Create SLA's
+- Congfigure Help Topics
 
 <h2>Installation Steps</h2>
 
